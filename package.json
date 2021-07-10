@@ -1,0 +1,24 @@
+{
+  "name": "js-math",
+  "version": "1.0.0",
+  "description": "Project made in the Platzi's  Practical Javascript Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike3names/JS-Math.git"
+  },
+  "keywords": [
+    "Javascript",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Miguel ANgel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike3names/JS-Math/issues"
+  },
+  "homepage": "https://github.com/mike3names/JS-Math#readme"
+}
